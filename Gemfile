@@ -37,6 +37,7 @@ gem "font-awesome-rails"
 gem 'simple_form'
 
 gem 'devise'
+gem 'bcrypt', platforms: :ruby
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
